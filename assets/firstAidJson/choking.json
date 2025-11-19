@@ -1,0 +1,52 @@
+{
+  "id": "choking",
+  "name": "Choking",
+  "video": {
+    "videoId": "j45WfhxK_Hs",
+    "title": "First Aid for Choking"
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ensure Safety and Assess the Situation",
+      "description": "Make sure the area is safe for both the rescuer and the victim. Check if the person can cough, speak, or breathe.",
+      "image": "assets/firstAid/choking/1.png"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Encourage Coughing",
+      "description": "If the victim is able, encourage them to cough forcefully to dislodge the object.",
+      "image": "assets/firstAid/choking/2.png"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Back Blows (for severe airway blockage)",
+      "description": "Stand behind the victim and deliver 5 firm back blows between the shoulder blades using the heel of your hand.",
+      "image": "assets/firstAid/choking/3.png"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Abdominal Thrusts / Heimlich Maneuver",
+      "description": "If the object is not expelled, perform 5 abdominal thrusts: Stand behind the victim, wrap your arms around the waist, make a fist above the navel, and pull sharply inward and upward.",
+      "image": "assets/firstAid/choking/4.png"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Alternate Back Blows and Abdominal Thrusts",
+      "description": "Repeat the cycle of 5 back blows and 5 abdominal thrusts until the object is expelled or the victim becomes unconscious.",
+      "image": "assets/firstAid/choking/5.png"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Call for Emergency Help",
+      "description": "If choking persists, call for professional medical assistance immediately.",
+      "image": "assets/firstAid/choking/6.png"
+    },
+    {
+      "stepNumber": 7,
+      "title": "If the Victim Becomes Unconscious",
+      "description": "Begin CPR while checking the mouth for the object each time before rescue breaths.",
+      "image": "assets/firstAid/choking/7.png"
+    }
+  ]
+}

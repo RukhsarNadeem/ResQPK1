@@ -1,0 +1,40 @@
+{
+  "id": "bleeding",
+  "name": "Bleeding",
+  "video": {
+    "videoId": "V8KiNURVjgk",
+    "title": "First Aid for Bleeding"
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ensure Safety",
+      "description": "Wear gloves if available. Make sure the area is safe for both rescuer and victim.",
+      "image": "assets/firstAid/bleeding/1.png"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Apply Direct Pressure",
+      "description": "Press a clean cloth, gauze, or bandage firmly on the wound.",
+      "image": "assets/firstAid/bleeding/2.png"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Elevate the Wounded Area (if possible)",
+      "description": "Raise the injured limb above heart level to reduce bleeding.",
+      "image": "assets/firstAid/bleeding/3.png"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Maintain Pressure Until Help Arrives",
+      "description": "Keep holding the cloth/bandage firmly. Do not remove it to check frequently; only add layers if soaked.",
+      "image": "assets/firstAid/bleeding/4.png"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Call for Medical Help",
+      "description": "Seek professional help if bleeding is heavy, spurting, or won’t stop.",
+      "image": "assets/firstAid/bleeding/5.png"
+    }
+  ]
+}

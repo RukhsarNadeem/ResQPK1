@@ -1,0 +1,40 @@
+{
+  "id": "burns",
+  "name": "Burns",
+  "video": {
+    "videoId": "TLr2qsEhpC8",
+    "title": "First Aid for Burns and Scalds"
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ensure Safety",
+      "description": "Remove the person from the source of heat or danger. Make sure the area is safe before approaching.",
+      "image": "assets/firstAid/burns/1.png"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Cool the Burn",
+      "description": "Immediately run cool (not cold) water over the burn for 10–20 minutes. Do not use ice, as it can damage the skin further.",
+      "image": "assets/firstAid/burns/2.png"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Protect the Burn",
+      "description": "Cover the burn with a clean, non-stick cloth or sterile dressing. Avoid using creams, oils, or adhesive bandages on severe burns.",
+      "image": "assets/firstAid/burns/3.png"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Relieve Pain",
+      "description": "If appropriate, give over-the-counter pain relief (e.g., paracetamol or ibuprofen). Keep the victim calm and comfortable.",
+      "image": "assets/firstAid/burns/4.png"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Seek Medical Help",
+      "description": "Call for professional help if the burn is large or deep, on the face, hands, feet, or genitals, or caused by chemicals, electricity, or fire.",
+      "image": "assets/firstAid/burns/5.png"
+    }
+  ]
+}

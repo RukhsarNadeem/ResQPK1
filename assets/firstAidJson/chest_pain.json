@@ -1,0 +1,52 @@
+{
+  "id": "chest_pain",
+  "name": "Chest Pain",
+  "video": {
+    "videoId": "ZhO-c4z-lDM",
+    "title": "First Aid for Chest Pain"
+  },
+  "steps": [
+    {
+      "stepNumber": 1,
+      "title": "Ensure Safety and Assess the Situation",
+      "description": "Make sure the area is safe for both the rescuer and the victim. Check if the person is conscious and breathing normally.",
+      "image": "assets/firstAid/chest_pain/1.png"
+    },
+    {
+      "stepNumber": 2,
+      "title": "Have the Person Rest",
+      "description": "Help the victim sit or lie down in a comfortable position, ideally semi-upright. Encourage them to stay calm and still.",
+      "image": "assets/firstAid/chest_pain/2.png"
+    },
+    {
+      "stepNumber": 3,
+      "title": "Loosen Tight Clothing",
+      "description": "Loosen belts, collars, or restrictive clothing to help breathing and circulation.",
+      "image": "assets/firstAid/chest_pain/3.png"
+    },
+    {
+      "stepNumber": 4,
+      "title": "Monitor the Victim",
+      "description": "Observe vital signs such as breathing, consciousness, and pulse. Watch for symptoms worsening (sweating, nausea, dizziness, fainting).",
+      "image": "assets/firstAid/chest_pain/4.png"
+    },
+    {
+      "stepNumber": 5,
+      "title": "Administer Emergency Medication (if prescribed)",
+      "description": "If the victim has prescribed medication for chest pain (e.g., nitroglycerin), assist in taking it as directed.",
+      "image": "assets/firstAid/chest_pain/5.png"
+    },
+    {
+      "stepNumber": 6,
+      "title": "Call for Emergency Help",
+      "description": "Contact professional medical services immediately if pain is severe, persistent, or accompanied by other symptoms (shortness of breath, sweating, nausea, radiating pain).",
+      "image": "assets/firstAid/chest_pain/6.png"
+    },
+    {
+      "stepNumber": 7,
+      "title": "Prepare for CPR if Necessary",
+      "description": "If the victim becomes unconscious and stops breathing, begin CPR immediately.",
+      "image": "assets/firstAid/chest_pain/7.png"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+      "id": "cpr",
+      "name": "CPR",
+      "video": {
+        "videoId": "BQNNOh8c8ks",
+        "title": "First Aid for CPR"
+      },
+      "steps": [
+        {
+          "stepNumber": 1,
+          "title": "Check Responsiveness",
+          "description": "Tap the person and call out to see if they respond.",
+          "image": "assets/firstAid/cpr/1.png"
+        },
+        {
+          "stepNumber": 2,
+          "title": "Call Emergency Help",
+          "description": "If unresponsive, immediately call the emergency number (or shout for someone to call).",
+          "image": "assets/firstAid/cpr/2.png"
+        },
+        {
+          "stepNumber": 3,
+          "title": "Check Breathing (Quickly)",
+          "description": "Look for normal breathing for no more than 10 seconds.",
+          "image": "assets/firstAid/cpr/3.png"
+        },
+        {
+          "stepNumber": 4,
+          "title": "Start Chest Compressions",
+          "description": "Place hands in the center of the chest and press hard and fast.",
+          "image": "assets/firstAid/cpr/4.png"
+        },
+        {
+          "stepNumber": 5,
+          "title": "Give Rescue Breaths (If Trained)",
+          "description": "After 30 compressions, give 2 breaths using head-tilt/chin-lift.",
+          "image": "assets/firstAid/cpr/5.png"
+        }
+      ]
+    }
